@@ -1,4 +1,4 @@
-# pygame-grid-engine
+# Pygame Grid Engine
 
 > A decoupled 2D arcade loop engine featuring synthetic audio wave generation, strict vector direction validation, and persistent file state.
 
