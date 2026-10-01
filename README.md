@@ -103,6 +103,6 @@ pygame-grid-engine/
 
 [ ] Async High Score Persistence: Migrate synchronous JSON operations to asynchronous background threads to avoid blocking the game loop during disk writes.
 
-[ ]Dynamic Frame Interpolation: Decouple game logic updates (tick rate) from rendering refresh rates to allow smooth sub-grid interpolation.
+[ ] Dynamic Frame Interpolation: Decouple game logic updates (tick rate) from rendering refresh rates to allow smooth sub-grid interpolation.
 
-[ ]Structured Sound Synthesizer: Expand the square wave synthesis function to support ADSR (Attack, Decay, Sustain, Release) envelopes and custom waveform tables.
+[ ] Structured Sound Synthesizer: Expand the square wave synthesis function to support ADSR (Attack, Decay, Sustain, Release) envelopes and custom waveform tables.
